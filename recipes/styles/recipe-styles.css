@@ -1,0 +1,19 @@
+.headers {
+    text-align: center;
+    background-color: rgb(223, 121, 4);
+    color: palegoldenrod;
+
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.description {
+    text-align: center;
+}
+.list,
+.description {
+    color: rgb(128, 197, 128);
+    }
